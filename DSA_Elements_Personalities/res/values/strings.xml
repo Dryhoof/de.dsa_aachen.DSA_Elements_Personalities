@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">DSA Elements Personalities</string>
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-
+    <string name="app_name">DSA Elementare</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="img_ElementCircle">Kreis der Elemente</string>
+    <string name="str_GeneratePersonality">Neue Persönlichkeit generieren</string>
+    <string name="str_NewPersonality">Neue Persönlichkeit:</string>
+    <string name="str_ElementsPrompt">Wähle ein Element</string>
+    <string-array name="str_ElementsArray">
+        <item>Feuer</item>
+        <item>Wasser</item>
+        <item>Humus</item>
+        <item>Eis</item>
+        <item>Erz</item>
+        <item>Luft</item>
+    </string-array>
+    <string name="str_None">None</string>
 </resources>
